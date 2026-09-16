@@ -15,7 +15,7 @@
 2. [Conditional execution](py4e/2-conditional-execution.md)
 3. [Functions](py4e/3-functions.md)
 4. [Loops and iterations](py4e/4-loops-iterations.md)
-5. [Strings](py4e/5-strings.md)
+5. [Strings]5-strings.md
 6. [Files](py4e/6-files.md)
 7. [Lists](./py4e/7-lists.md)
 8. [Dictionaries](./py4e/8-dictionaries.md)
